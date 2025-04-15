@@ -61,5 +61,13 @@ Enable GitHub Pages:
 
 ![Image](https://github.com/user-attachments/assets/444faa56-4158-4c7f-a079-309dee314a88)
 
+After CSS Styling:
+------------------
+
+the web page will look like 
+
+![Image](https://github.com/user-attachments/assets/035506cb-11d9-44d6-ab64-99b9494ab46d)
+
+
 📢 Acknowledgments:
 Thanks to GitHub Pages for providing free static website hosting for open-source projects.
