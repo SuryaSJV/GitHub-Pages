@@ -56,6 +56,12 @@ Enable GitHub Pages:
 
 *Click Save.
 
+access it by opening that like:
+-------------------------------
+```
+https://suryasjv.github.io/GitHub-Pages/
+```
+
 ![Image](https://github.com/user-attachments/assets/81e017d4-13f0-4cf0-b247-ad52ee152f16)
 
 
@@ -65,6 +71,10 @@ After CSS Styling:
 ------------------
 
 the web page will look like 
+click on the link it will redirect you to the page 
+```
+https://suryasjv.github.io/GitHub-Pages/
+```
 
 ![Image](https://github.com/user-attachments/assets/035506cb-11d9-44d6-ab64-99b9494ab46d)
 
